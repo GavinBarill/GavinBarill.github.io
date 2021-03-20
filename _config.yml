@@ -11,7 +11,7 @@ title                    : "Gavin Barill"
 title_separator          : "-"
 name                     : &name "Gavin Barill"
 description              : &description "I am a PhD student studying at McGill Unveristy"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : gavinbarill.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gavinbarill.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gavin Barill"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "I am a PhD student at McGill University"
   location         : "McGill University, Montreal"
   employer         :
